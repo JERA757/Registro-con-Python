@@ -1,0 +1,1 @@
+""" Carpeta donde se localizan los tipos de ficheros donde serán almacenadas la información """
